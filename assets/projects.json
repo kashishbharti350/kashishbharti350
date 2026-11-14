@@ -1,0 +1,19 @@
+
+
+{
+  "_comment": "Kashish Bharti's featured projects, displayed in README order.",
+  "projects": [
+    {
+      "repo": "CampusTech",
+      "description": "A campus opportunity and community platform designed to help students discover events, hackathons, internships and useful campus resources."
+    },
+    {
+      "repo": "dinox",
+      "description": "A C++ Dinosaur Runner game built with Raylib, combining game development, graphics and interactive gameplay."
+    },
+    {
+      "repo": "portfolio",
+      "description": "My personal developer portfolio showcasing my technical skills, projects, achievements and creative work."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+
+{
+  "title": "Kashish's Skill Radar",
+  "axes": [
+    { "label": "C++", "value": 75 },
+    { "label": "HTML / CSS", "value": 90 },
+    { "label": "JavaScript", "value": 75 },
+    { "label": "React", "value": 55 },
+    { "label": "Node.js", "value": 55 },
+    { "label": "DSA", "value": 50 },
+    { "label": "Graphic Design", "value": 90 }
+  ]
+}
+
